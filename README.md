@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sairaatta" alt="sairaatta" /></a> </p>
 
-- 🔭 I’m currently working on **Project Allocation and Evaluation according to NCEAC Rules**
+- 🔭 I’m currently worked on **Project Allocation and Evaluation according to NCEAC Rules**
 
 - 🌱 I’m currently learning **Next.js**
 
