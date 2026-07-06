@@ -23,7 +23,6 @@ Building modern, responsive web applications with <b>React</b> and <b>Next.js</b
 * 💼 **Freelance Frontend Developer** specializing in responsive, user-friendly web applications.
 * 🤖 **Currently learning AI Engineering**, focusing on Machine Learning, LLMs, Prompt Engineering, and AI-powered web applications.
 * 🌱 Expanding my expertise in **Next.js, TypeScript, Python, and AI integrations**.
-* 🔭 Currently building **Project Allocation & Evaluation System based on NCEAC Guidelines**.
 * 🤝 Open to collaborating on **Frontend**, **Next.js**, and **AI-powered** projects.
 * 💬 Ask me about **React.js, Next.js, Tailwind CSS, UI/UX, and Responsive Design**.
 * 📫 **Email:** **[sairaatta098@gmail.com](mailto:sairaatta098@gmail.com)**
